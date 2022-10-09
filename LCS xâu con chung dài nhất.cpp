@@ -56,7 +56,7 @@ int main()
         }
     }
     
-    
+    cout << max_Size;
     for(int t = max_Size-1 ; t>=0; t--)  
         cout<<subsequence[t];
     return 0;    
